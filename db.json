@@ -1,0 +1,76 @@
+{
+  "clients": [
+    {
+      "fecha": "2024-04-03",
+      "nombre": "Camila Ayelen Brahim",
+      "red": "camiiibrahim",
+      "correo": "cami@gmail.com",
+      "sexo": "Femenino",
+      "moto": "23",
+      "modelo": "hola",
+      "dominio": "nose",
+      "telefono": "123455421",
+      "barrio": "72vivi",
+      "problema": "no funciona el motor",
+      "estado": "Medio",
+      "servicio": "Abrir motor 110cc",
+      "mecanico": "Gaston",
+      "status": false,
+      "spotLight": false,
+      "id": 2
+    },
+    {
+      "fecha": "2024-04-18",
+      "nombre": "Brahim Fabio",
+      "red": "fabio.brahim",
+      "correo": "fabio.brahim@gmail.com",
+      "sexo": "Masculino",
+      "moto": "23",
+      "modelo": "moto 123",
+      "dominio": "tal cual",
+      "telefono": "123455421",
+      "barrio": "62 viviendas",
+      "problema": "no funciona el motor",
+      "estado": "Bueno",
+      "servicio": "Abrir motor 110cc",
+      "mecanico": "Ivan",
+      "status": false,
+      "spotLight": false,
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "camila ayelen",
+      "lastname": "brahim",
+      "email": "camila.brahim@alu.frt.utn.edu.ar",
+      "password": "camila123",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "name": "Lautaro Emanuel ",
+      "lastname": "Bravo",
+      "email": "lauty36@gmail.com",
+      "password": "lautaro2024",
+      "role": "admin",
+      "id": 2
+    },
+    {
+      "name": "elida",
+      "lastname": "recalde",
+      "email": "eli36@gmail.com",
+      "password": "hola2023",
+      "role": "client",
+      "id": 3
+    },
+    {
+      "name": "elida",
+      "lastname": "recalde",
+      "email": "eli36@gmail.com",
+      "password": "hola2023",
+      "role": "admin",
+      "id": 4
+    }
+  ]
+}
